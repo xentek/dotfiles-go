@@ -1,4 +1,3 @@
-export GOPATH="$HOME/.go"
-export GOPRIVATE="gitlab.gitlab-challenge.fathom5.us/*,*.fathom5.work/*,github.com/fathom5/*,github.com/FATHOM5/*"
+export GOPRIVATE="gitlab.gitlab-challenge.fathom5.us/*,*.fathom5.work/*,github.com/fathom5/*,github.com/FATHOM5/*,github.com/FATHOM5CORP/*"
 export PATH="$PATH:$(go env GOPATH)/bin"
 export GOEXPERIMENT=boringcrypto
